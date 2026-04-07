@@ -1,0 +1,131 @@
+Machinery of Government
+Explore the organisation and relationships within the UK Government · by @hrushworth
+? Help
+🗂️ Categories
+🔍 Search
+⚄
+↺
+Hover to explore · Click to select · Scroll to zoom
+⊙ Radial
+☰ Legend
+🌍 Territory
+☾
+OFFICIALS
+Prime Minister
+Civil Servant
+Cabinet Minister
+Independent Official
+Junior Minister
+DEPARTMENTS
+Ministerial Dept
+Division/Directorate
+Non-Ministerial
+Executive Agency
+PUBLIC BODIES
+Executive NDPB
+Public Corporation
+Advisory NDPB
+Royal Charter Body
+Tribunal
+Other Body
+About this application
+✕
+Machinery of Government is an interactive map of UK central government — showing how departments, ministers, agencies, public bodies, and other organisations relate to and oversee one another.
+
+VIEWS
+
+Full view
+The default view. Shows every element in the network simultaneously, arranged in concentric rings by constitutional distance from the Prime Minister. Hover any node to see its name in a tooltip beside the cursor. Click to select an element — it is highlighted with an amber border and its name is shown as a label. Click ⊡ Focus in the chart toolbar to switch to focus view.
+Focus view
+Shows the selected element at the centre, with its parents, grandparents, children, and grandchildren arranged radially. Click any node to re-focus the chart on it. Click ⊞ Full to return to full view.
+Dark / Light mode
+Toggle between light and dark appearances using the ☾ / ☀ button in the chart toolbar (or the moon icon in the mobile navigation bar).
+Legend
+Click ☰ Legend in the chart toolbar to show or hide the key. The legend is visible on desktop only; on mobile, use Categories in the navigation bar instead. In full view the Groups section is hidden, as group nodes only appear in focus view.
+Jurisdiction filter
+Click the 🌍 Territory button in the chart toolbar to filter the chart by jurisdiction. Selecting a territory (e.g. England) highlights all elements whose remit covers that territory — including broader jurisdictions such as UK-wide and GB bodies. The filter applies across both views, and the ↺ reset button clears it. The selected jurisdiction is shown on each element's info tab.
+HOW TO NAVIGATE
+
+Select an element
+Click any node on the chart. On desktop, the element pane opens with details, relationships, and tabs for Powers, Budget, and Staff. On mobile, the element's name and type appear in a bar at the bottom — tap Select to update the chart, then Details → to open the full pane.
+Random element
+Click the ⚄ button (top-right of the chart) to jump to a randomly selected element from the entire database.
+Navigate relationships
+Click any parent or child entry in the element pane to jump to that element and re-centre the chart around it.
+Pan the chart
+Click and drag on the background.
+Zoom
+Scroll wheel, or pinch on a trackpad / touchscreen.
+Reset / re-centre
+Click the ↺ button (top-right of the chart) to reset the layout, re-centre on the PM, clear the current selection, and clear any active jurisdiction filter.
+Search
+Click Search in the header to open a search panel. Search by name, or filter by one or more tags. In full view, matching elements are highlighted across the whole network with connections between them shown.
+Browse by category
+Click the category badge (e.g. "Ministerial Department") on any element to see all elements of that type.
+Browse by tag
+Click a tag pill (e.g. "Regulator" or "Health") on any element to see all organisations sharing that tag.
+ELEMENT DETAIL TABS
+
+Info
+Description, role, current holder, jurisdiction, tags, and all parent / child relationships.
+Powers
+Powers, duties, functions, and responsibilities — with the underpinning legislation, statutory instrument, prerogative, case law, or constitutional convention, and a link to the source text on legislation.gov.uk where available. Shown where data has been entered.
+Power
+A discretionary authority to act — something the body or official may do. Includes prerogative powers, statutory discretions, and executive powers conferred by legislation.
+Duty
+A legal obligation to act in a particular way. The holder must do this; failure may be unlawful and subject to judicial review or statutory sanction.
+Function
+An ongoing role or activity carried out in the exercise of office — broader than a single power or duty, and often a combination of both.
+Responsibility
+A political or constitutional accountability — not necessarily enforceable in court, but a recognised obligation to Parliament, the public, or the Sovereign.
+Budget
+2024–25 final outturn spending from HM Treasury OSCAR data — net and gross expenditure, income, DEL/AME split, and a breakdown by economic type, programme, or arm's-length body (where available). Links to the body's annual report collection on GOV.UK.
+Staff
+Civil Service headcount as at 31 March 2025 from the Cabinet Office Civil Service Statistics. Shows a grade breakdown (SCS, Grade 6/7, SEO/HEO, EO, AA/AO) and, for departments, a breakdown by sub-organisation. Clicking a sub-organisation row navigates to that element.
+CLASSIFICATION
+
+Every element has a category and subtype:
+
+Category	Subtypes
+Official	Prime Minister, Cabinet Minister, Junior Minister, Civil Servant, Independent Official
+Department	Ministerial Department, Non-Ministerial Department, Executive Agency, Division / Directorate
+Body	Executive NDPB, Advisory NDPB, Public Corporation, Royal Charter Body, Tribunal, Other Body
+Group	Cabinet, Other Group
+Elements also carry type tags (e.g. Regulator, Tribunal, NHS Body) and sector tags (e.g. Health, Defence, Digital / Technology) for cross-cutting search and filtering. Departments and bodies also have a jurisdiction (e.g. UK, England, Wales, Scotland, Northern Ireland, Crown Dependencies, Overseas Territories) reflecting the geographic scope of their remit.
+
+BUDGET DATA
+
+Budget figures are drawn from HM Treasury's OSCAR (Online System for Central Accounting and Reporting) 2024–25 final outturn dataset. Figures are in £ thousands and represent actual spend for the full financial year. Negative values represent income or receipts.
+
+DEL (Departmental Expenditure Limit)
+Day-to-day spending within fixed limits set at Spending Reviews. Split into Admin DEL (running costs) and Programme DEL (frontline delivery).
+AME (Annually Managed Expenditure)
+Demand-driven spending outside fixed limits — primarily benefits, pensions, and debt interest.
+Income
+Some departments receive income that offsets their gross expenditure — for example, fee-funded bodies such as Companies House, DVLA, and the Intellectual Property Office charge for their services; departments running shared services (e.g. Cabinet Office, FCDO) receive income from other government bodies; and some departments historically received EU or international reimbursements. Where material income exists, the chart section shows an Expenditure / Income toggle so both can be explored.
+DATA COVERAGE
+
+All Cabinet ministers with current role holders
+All junior ministers across every department
+Permanent Secretaries and key independent officials
+All ministerial and non-ministerial departments
+40+ executive agencies
+100+ executive and advisory NDPBs
+Tribunals, ombudsmen, regulators, and public corporations
+Government professions and cross-cutting Cabinet Office functions
+Powers and legislation data for all Cabinet ministers and selected independent officials
+Budget data for 37 department groups (2024–25 outturn)
+Staff headcount for all ministerial and non-ministerial departments and their agencies (31 March 2025)
+Data reflects the UK government structure as of early 2025. Role holders and organisational structures change frequently; always verify against GOV.UK for the most current position.
+
+LIMITATIONS
+
+Budget data covers department-level groups; individual agencies and NDPBs do not have separate budget entries unless they appear as a distinct OSCAR organisation.
+OSCAR body-level spend figures aggregate all transactions attributed to an organisation code and may differ from figures in individual annual reports.
+The focus view shows up to two levels of children and all ancestors for any selected element; the full view shows the entire network.
+DISCLAIMER
+
+The information in this application is provided for general reference purposes only. While every effort has been made to ensure accuracy, the data may be incomplete, incorrect, or out of date. Government structures, ministerial appointments, and organisational relationships change frequently. The author makes no representations or warranties of any kind, express or implied, as to the accuracy, completeness, or fitness for any particular purpose of the information contained herein. The author accepts no liability whatsoever for any loss, damage, or inconvenience arising from reliance on information in this application. Always verify against official sources such as GOV.UK.
+
+© MMXXVI Harry C. Rushworth. Non-commercial use permitted with attribution.
+Contains public sector information licensed under the Open Government Licence v3.0, including HM Treasury OSCAR data and Cabinet Office Civil Service Statistics.
